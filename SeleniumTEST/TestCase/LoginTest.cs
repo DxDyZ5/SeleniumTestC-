@@ -82,7 +82,7 @@ namespace SeleniumTEST.TestCase
 
         }
 
-        //Show campos password
+        //Show campos password SEL-6
         [Test]
         public void LoginSHowNoShow()
         {
