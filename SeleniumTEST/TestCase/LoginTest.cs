@@ -54,7 +54,7 @@ namespace SeleniumTEST.TestCase
 
 
         }
-        //Credenciales no existentes o no registrado
+        //Credenciales no existentes o no registrado SEL-4
         [Test]
         public void FailLoginTestKeysNonExisting()
         {
