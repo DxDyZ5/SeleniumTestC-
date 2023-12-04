@@ -30,7 +30,7 @@ namespace SeleniumTEST.TestCase
 
             Browser = new Browser(Driver);
         }
-        //login commit success
+        
         [Test]  
         public void successLoginTest()
         {
